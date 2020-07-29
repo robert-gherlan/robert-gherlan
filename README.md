@@ -1,21 +1,10 @@
-### Hi there 👋
+# Robert Gherlan
 
+[![Github](https://img.shields.io/github/followers/robertgherlan?label=Follow&style=social)](https://github.com/robertgherlan)
+[![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=robertgherlan)](https://github.com/robertgherlan)
+[![Linkedin](https://img.shields.io/badge/-Robert%20Gherlan-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/robert-gherlan-009ab2116/)](https://www.linkedin.com/in/robert-gherlan-009ab2116/)
+[![Mail](https://img.shields.io/badge/-robertgherlan@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:robertgherlan@gmail.com)
 
 ### Interesting stats
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=robertgherlan&show_icons=true)
-
-<!--
-**robertgherlan/robertgherlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
