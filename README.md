@@ -5,6 +5,10 @@
 [![Linkedin](https://img.shields.io/badge/-Robert%20Gherlan-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/robert-gherlan-009ab2116/)](https://www.linkedin.com/in/robert-gherlan-009ab2116/)
 [![Mail](https://img.shields.io/badge/-robertgherlan@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:robertgherlan@gmail.com)
 
+## About me
+
+Java Software Developer with over 5 years of experience in developing web-based applications using latest technologies such as: Spring, Spring MVC, Spring Boot, Spring Security, Spring Data JPA and Hibernate.
+
 ## Stack I work with
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
@@ -22,9 +26,7 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/eclipse_jetty/eclipse_jetty-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/centos/centos-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
 
 ### Interesting stats
 
