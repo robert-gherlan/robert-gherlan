@@ -6,7 +6,7 @@
 
 ## About me
 
-Java Software Developer with over 7 years of experience in developing web-based applications using latest technologies such as: Spring, Spring MVC, Spring Boot, Spring Security, Spring Data JPA, Google Cloud, AWS and Hibernate.
+Senior Java Software Engineer with over eight years of experience developing enterprise applications using the latest technologies such as Java, Python, Golang, Spring Boot, Quarkus, Google Cloud, and AWS.
 
 ## Stack I work with
 
